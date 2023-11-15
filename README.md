@@ -17,6 +17,11 @@ Currently studying Atrificial Intelligence Systems at the University of Trento.
 
 <p align="center">
   <br/>
+
+  <h3>Main frameworks and environment used: </h3>
+  <br/><br/><br/>
+
+  <br/>
   <!-- Framework and environments -->
   <img height="40" align="center" alt="Android" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/android/android-plain-wordmark.svg">
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -36,7 +41,7 @@ Currently studying Atrificial Intelligence Systems at the University of Trento.
   <img height="40" align="center" alt="Git" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
   <br/><br/><br/>
 
-  
+  <h3>Main programming language used during my programming experience:</h3>
   <!-- Programming languages -->
   <img height="40" align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg">
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -54,6 +59,9 @@ Currently studying Atrificial Intelligence Systems at the University of Trento.
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   
   <img height="40" align="center" alt="Swift" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg">
+  <br/><br/><br/>
+
+  <h3>Some of the most used libraries I used:</h3>
   <br/><br/><br/>
 
   <!-- Libraries -->
