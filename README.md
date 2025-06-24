@@ -1,7 +1,8 @@
 <h1 align="center">👋 Hi, I'm Riccardo (Luna for friends)!</h1>
 
 <p align="center">
-  Currently studying Atrificial Intelligence Systems at the University of Trento.
+  PhD student at the Medical University of Innsbruck in AI for Cardiology.
+  MSc in Atrificial Intelligence Systems at the University of Trento.
 </p>
   
 <p align="center">
