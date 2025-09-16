@@ -47,4 +47,5 @@
   <img height="40" alt="OpenCV" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg">&nbsp;&nbsp;
   <img height="40" alt="PyTorch" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg">&nbsp;&nbsp;
   <img height="40" alt="Conda" src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original.svg">&nbsp;&nbsp;
+  <img height="40" alt="lightning" src="https://lightning.ai/static/media/logo-with-text-dark.bdcfdf86bccb9812ed1d3ec873e9e771.svg">&nbsp;&nbsp;
 </p>
