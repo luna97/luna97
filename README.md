@@ -41,7 +41,7 @@
 </p>
 
 <!-- Most used libraries -->
-<h4 align="center">Some of the most used libraries I used:</h3>
+<h4 align="center">Proficient with:</h3>
 <p align="center">
   <img height="40" alt="Pandas" src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg">&nbsp;&nbsp;
   <img height="40" alt="OpenCV" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg">&nbsp;&nbsp;
